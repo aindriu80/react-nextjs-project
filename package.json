@@ -1,0 +1,27 @@
+{
+  "name": "react-nextjs-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.1.1",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aindriu80/react-nextjs-project.git"
+  },
+  "author": "Aindriú",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aindriu80/react-nextjs-project/issues"
+  },
+  "homepage": "https://github.com/aindriu80/react-nextjs-project#readme"
+}
